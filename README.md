@@ -4,7 +4,7 @@ This is a little script I did to scrape one of my favorite image collections on 
 
 Usage:
 
-python3 main.py
+./main.py
 
 Installation:
 just run setup.sh on your favorite ubuntu machine.
