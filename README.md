@@ -1,6 +1,6 @@
 README:
 
-This is a little script I did to scrape one of my favorite image collections on the internet and pull down all of the images. Big shot out to Sven Geier who made these incredible fractals that you will hopefully be downloading soon enough. I haven't made anything in python for quite some time so this was more a tool to refresh my memory. I'm a perl guy and I'll tell you, many of my perl shortcuts [that make things work yet unreadable] don't work in python.
+This is a little script I did to scrape one of my favorite image collections on the internet and pull down all of the images. Big shout out to Sven Geier who made these incredible fractals that you will hopefully be downloading soon enough. I haven't made anything in python for quite some time so this was more a tool to refresh my memory. I'm a perl guy and I'll tell you, many of my perl shortcuts [that make things work yet unreadable] don't work in python.
 
 Usage:
 
